@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ariannaharadon/AndroidStudioProjects/AppLifecycle/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/ariannaharadon/AndroidStudioProjects/AppLifecycle/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ariannaharadon/Downloads/DatabaseDemo/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/ariannaharadon/Downloads/DatabaseDemo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

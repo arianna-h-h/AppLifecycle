@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ariannaharadon/AndroidStudioProjects/AppLifecycle/app/build/intermediates/res/merged/debug/menu/activity_db.xml",
+        "source": "/Users/ariannaharadon/AndroidStudioProjects/AppLifecycle/app/src/main/res/menu/activity_db.xml"
+    },
+    {
+        "merged": "/Users/ariannaharadon/Downloads/DatabaseDemo/app/build/intermediates/res/merged/debug/menu/activity_db.xml",
+        "source": "/Users/ariannaharadon/Downloads/DatabaseDemo/app/src/main/res/menu/activity_db.xml"
+    }
+]
